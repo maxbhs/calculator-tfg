@@ -1,0 +1,9 @@
+[submodule "calc-frontend"]
+	path = calc-frontend
+	url = https://github.com/maxbhs/calc-frontend
+[submodule "calc-logic"]
+	path = calc-logic
+	url = https://github.com/maxbhs/calc-logic
+[submodule "calc-webapp"]
+	path = calc-webapp
+	url = https://github.com/maxbhs/calc-webapp
