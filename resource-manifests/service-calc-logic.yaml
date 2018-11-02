@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: calc-logic
+  name: calc-logic-lb
 spec:
   type: LoadBalancer
   ports:
